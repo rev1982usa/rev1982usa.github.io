@@ -1,0 +1,60 @@
+p {
+	color: yellow;
+}
+p {
+	background-color: pink;
+}
+a {
+	color: violet;
+}
+img {
+    float: left;
+    margin: 0px 0px 5px 10px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px 20px;
+    height: 10px
+    width: 10px;
+}
+body {
+    background: url("images/background.jpg");
+}
+
+#about {
+	background: brown;
+	color: blue;
+}
+.about {
+	background-color: orange;
+	font-color: green;
+	font: orange;
+	background-color: green;
+}
+.links {
+	background: orange;
+	font-size: 20;
+	border-spacing: 10px;
+}
+.links h2 {
+	background-color: orange;
+}
+.contact img {
+	height: 10px;
+	width: 10px;
+	border-radius: 50%;
+}
+#contact {
+	background: url ("images/dark_embroidery.png");
+	height: 
+}
+.contact h2 {
+	font: blue;
+}
+.websites  a{
+	background: brown;
+}
+
+
+
+
